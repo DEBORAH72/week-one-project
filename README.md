@@ -5,9 +5,9 @@ Moringa class week one project
 ## I am a Kenyan Programmer named Deborah in her mid thirties-ladies dont disclose their ages ;but well.
 ## A mother of two boys-one on the way :-) ,married to one man .Born 6th in a family of 5 girls and one boy.Both my parents are alive;which is a thanksgiving for me.
 
-## About my career ,i have been in the professional industry for 11 years now under different companies and professions. Currently long serving at Safaricom PLC as an end user Technician and also Retail executive.
+## About my career ,I have been in the professional industry for 11 years now under different companies and professions. Currently long serving at Safaricom PLC as an end user Technician and also Retail executive.
 
-## Why i ventured into Morinaga schools for software engineering,i can proudly say that its a passion for me to be in the technical field and more so to be able to code.
+## Why I ventured into Moringa schools for software engineering,i can proudly say that its a passion for me to be in the technical field and more so to be able to code.
 
 ### Coding is life. And a skill i have wanted to have ,realizing that my employer was providing the opportunity,i took it up and i dint look back.What i long for is being a professional in coding.
 
@@ -30,7 +30,7 @@ Moringa class week one project
 
 
 ## Technologies Used
-{This project languages are  HTML and CSS using Video Studio Code and gitbash termonal for coding this portfolio.}
+{This project languages are  HTML and CSS using Video Studio Code and gitbash terminal for coding this portfolio.}
 
 
 ## Support and contact details
