@@ -3,13 +3,14 @@ Moringa class week one project
 # This Project is about my Portfolio 
 
 ## I am a Kenyan Programmer named Deborah in her mid thirties-ladies dont disclose their ages ;but well.
-## A mother of two boys-one on the way :-) ,married to one man .Born 6th in a family of 5 girls and one boy.Both my parents are alive;which is a thanksgiving for me.
+## A mother of two boys-one on the way :-) ,married to one man .Born 6th in a family of 5 girls and one boy.I love travelling,discovering new foods and movies.
+### If i was to share my interests i would say that i love music-all genres and for me music has conformed me to a beautiful soal that loves interacting with people.My special moments would be my marriage proposal ,wedding and being a mother.
 
 ## About my career ,I have been in the professional industry for 11 years now under different companies and professions. Currently long serving at Safaricom PLC as an end user Technician and also Retail executive.
 
 ## Why I ventured into Moringa schools for software engineering,i can proudly say that its a passion for me to be in the technical field and more so to be able to code.
 
-### Coding is life. And a skill i have wanted to have ,realizing that my employer was providing the opportunity,i took it up and i dint look back.What i long for is being a professional in coding.
+### Coding is life. And a skill I have wanted to have ,realizing that my employer was providing the opportunity,i took it up and i dint look back.What i long for is being a professional in coding.
 
 
 ### Below are pointers to who Deborah is associated with.
@@ -22,7 +23,6 @@ Moringa class week one project
 - Future Expectations
 * Activities of Interest
 ### project setup instructions are as https://DEBORAH72.github.io/week-one-project link to live site on GitHub
-
 
 
 ## Known Bugs
