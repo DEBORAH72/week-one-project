@@ -20,7 +20,7 @@ Moringa class week one project
 - My favourite programs
 * Special Moments
 - Future Expectations
-* Activities of Interest
+* Activities of Interest see http://127.0.0.1:5500/generic.html
 ### project setup instructions are as https://DEBORAH72.github.io/week-one-project link to live site on GitHub
 
 
