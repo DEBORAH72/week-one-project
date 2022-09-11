@@ -1,32 +1,38 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# This Project is about my Portfolio 
+
+## I am a Kenyan Programmer named Deborah in her mid thirties-ladies dont disclose their ages ;but well.
+## A mother of two boys-one on the way :-) ,married to one man .Born 6th in a family of 5 girls and one boy.Both my parents are alive;which is a thanksgiving for me.
+
+## About my career ,i have been in the professional industry for 11 years now under different companies and professions. Currently long serving at Safaricom PLC as an end user Technician and also Retail executive.
+
+## Why i ventured into Morinaga schools for software engineering,i can proudly say that its a passion for me to be in the technical field and more so to be able to code.
+
+### Coding is life. And a skill i have wanted to have ,realizing that my employer was providing the opportunity,i took it up and i dint look back.What i long for is being a professional in coding.
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+### Below are pointers to who Deborah is associated with.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+- Family history
+- Professional brief
+- My favourite Foods
+- My favourite programs
+- Special Moments
+- Future Expectations
+* Activities of Interest
+### project setup instructions are as https://DEBORAH72.github.io/week-one-project link to live site on GitHub
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Known Bugs
+{There are no known bugs to this project. }
 
-	Icons:
-		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Technologies Used
+{This project languages are  HTML and CSS using Video Studio Code and gitbash termonal for coding this portfolio.}
+
+
+## Support and contact details
+{For any any questions or concerns kindly feel free to inbox me at elsiedb@gmail.com in regards to this project.}
+### License
+
+  copyright (c) {2022} ** {Deby projects with Special thanks to my family} **
