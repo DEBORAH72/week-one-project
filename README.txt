@@ -19,7 +19,7 @@
 - Special Moments
 - Future Expectations
 * Activities of Interest
-### project setup instructions are as https://DEBORAH72.github.io/week-one-project link to live site on GitHub
+### project setup instructions are as link to live site on GitHub
 
 
 
