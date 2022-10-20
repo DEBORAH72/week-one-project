@@ -20,15 +20,18 @@
 - Future Expectations
 * Activities of Interest
 ### project setup instructions are as link to live site on GitHub
-
-
-
 ## Known Bugs
 {There are no known bugs to this project. }
-
+## Technologies Used
+* CSS
+* Java script
+* Html
+* Gitbash
+## live link
+https://DEBORAH72.github.io/week-one-project
 
 ## Technologies Used
-{This project languages are  HTML and CSS using Video Studio Code and gitbash termonal for coding this portfolio.}
+{This project languages are  HTML and CSS using Video Studio Code and gitbash terminal for coding this portfolio.}
 
 
 ## Support and contact details
