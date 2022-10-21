@@ -28,7 +28,7 @@
 * Html
 * Gitbash
 ## live link
-https://DEBORAH72.github.io/week-one-project
+https://DEBORAH72.github.io/week-one-project/index.Html
 
 ## Technologies Used
 {This project languages are  HTML and CSS using Video Studio Code and gitbash terminal for coding this portfolio.}
